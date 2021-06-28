@@ -1,7 +1,7 @@
-#Imperative Programming Final Project
+# Imperative Programming Final Project
 A simple code written in C to generate statistics from Argentine air traffic in csv. 
 
-##Use Example
+## Use Example
 
     make clean
     make all
